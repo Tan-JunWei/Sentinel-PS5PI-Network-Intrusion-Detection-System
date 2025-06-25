@@ -1,2 +1,4 @@
 x64/
 nids-alpine-x64.zip
+passwords.txt
+__pycache__/
